@@ -27,7 +27,7 @@ This project uses the following npm packages:
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Suhelpatel786/Ecommerce_Template.git`
 2. Install dependencies using yarn: `yarn install`
 3. Start the development server: `yarn start`
 
